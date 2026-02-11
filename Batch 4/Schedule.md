@@ -18,3 +18,8 @@ Transition from Beginner → Strong Coder
 - Dynamic Programming (Intro)
 - Greedy
 - Backtracking
+  
+## 📅 Weekly:
+- 5 Days → Topic Based
+- 1 Day → Contest
+- 1 Day → Hard Problem Breakdown

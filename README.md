@@ -11,5 +11,24 @@ This repository maintains:
 - 📈 Structured growth system
 
 ---
+# 📈 Daily Discipline Rules (For All Batches)
 
-# 🗂 Repository Structure
+- Minimum 1 coding problem Daily
+- Maintain Progress Sheet
+- No Zero Days
+- Track Weekly Growth
+- Monthly Evaluation
+
+---
+
+# 🏆 Fail2FWD Growth Philosophy
+
+> Discipline > Motivation  
+> Consistency > Talent  
+> Execution > Planning  
+
+---
+
+# 📌 Maintained By
+Fail2FWD Team  
+Founder: Karan Punwatkar  
